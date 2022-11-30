@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//alogrithim that return the sum, product and divison of two set of numbers
+//algorithm that return the sum, product and divison of two set of numbers
 
 int main(void)
 {
